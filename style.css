@@ -1,0 +1,15 @@
+
+#id-textArea{
+    margin: 1rem;
+    width: 20rem;
+    height: 10rem;
+    padding: 1rem;
+}
+
+#id-outputdiv{
+    border: black solid;
+    height: 10rem;
+    width: 20rem;
+    margin: 1rem;
+    padding: 1rem;
+}
