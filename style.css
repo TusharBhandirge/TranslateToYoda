@@ -1,5 +1,6 @@
 
 #id-textArea{
+    display: block;
     margin: 1rem;
     width: 20rem;
     height: 10rem;
@@ -7,7 +8,8 @@
 }
 
 #id-outputdiv{
-    border: black solid;
+    display: block;
+    border: solid;
     height: 10rem;
     width: 20rem;
     margin: 1rem;
