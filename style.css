@@ -1,7 +1,39 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@500&display=swap');
+body{
+    margin: 0;
+    font-family: 'Lexend', sans-serif;
+}
+
+
+#container{
+    margin: auto;
+    text-align: center;
+    padding: 0.5rem;
+    padding: 0.5rem;
+    border: solid 1px;
+    max-width: 600px;
+}
+
+button{
+    display: block;
+    margin: auto;
+    margin-top: 0.5rem;
+    padding: 0.5rem;
+}
+
+h1{
+    display: block;
+    margin: auto;
+    text-align: center;
+    margin-top: 0.5rem;
+    padding: 0.5rem;
+}
+
 #id-textArea{
     display: block;
-    margin: 1rem;
+    margin: auto;
+    margin-top: 2rem;
     width: 20rem;
     height: 10rem;
     padding: 1rem;
@@ -12,6 +44,8 @@
     border: solid;
     height: 10rem;
     width: 20rem;
-    margin: 1rem;
+    margin:auto;
+    margin-top: 2rem;
     padding: 1rem;
 }
+
